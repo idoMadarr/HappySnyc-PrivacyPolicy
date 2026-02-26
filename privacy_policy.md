@@ -1,6 +1,6 @@
 **Privacy Policy for HappySync – Facebook Birthday Sync**
 
-_Last updated: [DATE]_
+_Last updated: 26/02/2026
 
 HappySync (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy describes how your personal information is collected, used, and shared when you use our Chrome extension HappySync (the “Extension”).
 
@@ -57,8 +57,8 @@ We take reasonable steps to protect your information during transmission. Howeve
 
 If you have questions about this Privacy Policy or want to request deletion of your data, contact us at:
 
-**Email:** [your contact email]  
-**Website:** [your website or GitHub page]
+**Email:** idox2x@gmail.com  
+**linkedin:** https://www.linkedin.com/in/ido-madar-1b953314b/?trk=public-profile-join-page
 
 ---
 
